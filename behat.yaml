@@ -1,0 +1,6 @@
+default:
+  suites:
+    easy:
+      context:
+
+      path:

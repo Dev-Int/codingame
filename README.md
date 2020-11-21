@@ -1,2 +1,3 @@
-# codingame
-My Coding Game repository
+# CodinGame
+
+CodinGame exercises resolution in ATDD.
