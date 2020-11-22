@@ -1,6 +1,8 @@
 default:
   suites:
     easy:
-      context:
+      contexts:
+        - 'CodinGame\Easy\Onboarding\Context\SearchAndDestroyContext'
 
-      path:
+      paths:
+        - '%paths.base%/src/Easy/Onboarding'
