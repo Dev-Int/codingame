@@ -5,4 +5,4 @@ CodinGame exercises resolution in ATDD.
 
 # Easy
 
-* [Onboarding](src/Easy/Onboarding/onboarding.feature)
+* [OnBoarding](src/Easy/OnBoarding/onBoarding.feature)

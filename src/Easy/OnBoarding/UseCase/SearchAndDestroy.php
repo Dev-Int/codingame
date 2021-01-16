@@ -1,6 +1,6 @@
 <?php
 
-namespace CodinGame\Easy\Onboarding\UseCase;
+namespace CodinGame\Easy\OnBoarding\UseCase;
 
 use CodinGame\Easy\Onboarding\Entity\Ship;
 

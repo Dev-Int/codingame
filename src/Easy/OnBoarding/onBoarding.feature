@@ -1,4 +1,4 @@
-Feature: Onboarding - Easy
+Feature: OnBoarding - Easy
   Scenario Outline:
     Given a cannon has to defend itself from attacking ships
     When the <enemy1> ship at <dist1> meters

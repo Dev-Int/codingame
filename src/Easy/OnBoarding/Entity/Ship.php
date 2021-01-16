@@ -1,6 +1,6 @@
 <?php
 
-namespace CodinGame\Easy\Onboarding\Entity;
+namespace CodinGame\Easy\OnBoarding\Entity;
 
 final class Ship
 {

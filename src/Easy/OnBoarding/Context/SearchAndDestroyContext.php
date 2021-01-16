@@ -1,12 +1,12 @@
 <?php
 
-namespace CodinGame\Easy\Onboarding\Context;
+namespace CodinGame\Easy\OnBoarding\Context;
 
 use Assert\Assertion;
 use Assert\AssertionFailedException;
 use Behat\Behat\Context\Context;
-use CodinGame\Easy\Onboarding\Entity\Ship;
-use CodinGame\Easy\Onboarding\UseCase\SearchAndDestroy;
+use CodinGame\Easy\OnBoarding\Entity\Ship;
+use CodinGame\Easy\OnBoarding\UseCase\SearchAndDestroy;
 
 final class SearchAndDestroyContext implements Context
 {
