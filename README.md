@@ -1,9 +1,10 @@
-CodinGame
+CodingGame
 =========
 
-CodinGame exercises resolution in ATDD.
+CodingGame exercises resolution in ATDD.
 
 # Easy
 
 * [OnBoarding](src/Easy/OnBoarding/onBoarding.feature)
-* [BreakChocolate](src/Easy/BreakChocolate/BreakChocolate.php)
+* [BreakChocolate](src/Easy/BreakChocolate/breakChocolate.feature) (with TDD)
+* [Isograms](src/Easy/Isograms/isograms.feature)

@@ -4,7 +4,9 @@ default:
       contexts:
         - 'CodinGame\Easy\OnBoarding\Context\SearchAndDestroyContext'
         - 'CodinGame\Easy\BreakChocolate\Context\BreakChocolateContext'
+        - 'CodinGame\Easy\Isograms\Context\IsogramContext'
 
       paths:
         - '%paths.base%/src/Easy/OnBoarding'
         - '%paths.base%/src/Easy/BreakChocolate'
+        - '%paths.base%/src/Easy/Isograms'
