@@ -13,11 +13,17 @@
     "require": {},
     "require-dev": {
         "beberlei/assert": "^3.3",
-        "behat/behat": "^3.8"
+        "behat/behat": "^3.8",
+        "phpunit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-4": {
             "CodinGame\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
         }
     }
 }

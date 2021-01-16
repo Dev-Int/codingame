@@ -3,6 +3,8 @@ default:
     easy:
       contexts:
         - 'CodinGame\Easy\OnBoarding\Context\SearchAndDestroyContext'
+        - 'CodinGame\Easy\BreakChocolate\Context\BreakChocolateContext'
 
       paths:
         - '%paths.base%/src/Easy/OnBoarding'
+        - '%paths.base%/src/Easy/BreakChocolate'
