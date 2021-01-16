@@ -6,9 +6,11 @@ default:
         - 'CodinGame\Easy\BreakChocolate\Context\BreakChocolateContext'
         - 'CodinGame\Easy\Isograms\Context\IsogramContext'
         - 'CodinGame\Easy\ShortestWord\Context\ShortestWordContext'
+        - 'CodinGame\Easy\MissingLetter\Context\MissingLetterContext'
 
       paths:
         - '%paths.base%/src/Easy/OnBoarding'
         - '%paths.base%/src/Easy/BreakChocolate'
         - '%paths.base%/src/Easy/Isograms'
         - '%paths.base%/src/Easy/ShortestWord'
+        - '%paths.base%/src/Easy/MissingLetter'
