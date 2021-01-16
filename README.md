@@ -7,4 +7,5 @@ CodingGame exercises resolution in ATDD.
 
 * [OnBoarding](src/Easy/OnBoarding/onBoarding.feature)
 * [BreakChocolate](src/Easy/BreakChocolate/breakChocolate.feature) (with TDD)
-* [Isograms](src/Easy/Isograms/isograms.feature)
+* [Isograms](src/Easy/Isograms/isograms.feature) (with TDD)
+* [ShortestWord](src/Easy/ShortestWord/shortestWord.feature)
