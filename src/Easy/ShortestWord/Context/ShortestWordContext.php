@@ -30,6 +30,6 @@ final class ShortestWordContext implements Context
      */
     public function returnTheLengthOfTheShortestWords(int $length): void
     {
-        Assert::assertEquals($length, $this->shortestWords->findShort($this->sentence->toString()));
+        Assert::assertEquals($length, $this->shortestWords->find($this->sentence->toString()));
     }
 }

@@ -4,7 +4,7 @@ namespace CodinGame\Easy\ShortestWord\UseCase;
 
 final class ShortestWord
 {
-    public function findShort(string $string): int
+    public function find(string $string): int
     {
         $arrayStrings = explode(' ', $string);
         return min(array_map(static function ($val) {
